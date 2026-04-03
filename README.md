@@ -1,1 +1,2 @@
-# code-collectionAuthor-Bikesh yadav
+# code-collection
+Author-Bikesh yadav
